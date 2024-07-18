@@ -1,2 +1,2 @@
-# second-project
-only for testing
+# Simple shoping site
+
